@@ -42,9 +42,9 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
  
 # 📈 Model Performance based on Accuracy Scores
 
-    | Model | Accuracy | Loss |
-    |:-|:-|:-|
-    | RESNET-18 | 82.62 | 0.7078 |
+| Model    | Accuracy | Loss   |
+|----------|----------|--------|
+| RESNET-18| 82.62    | 0.7078 |
 
 # 📢 Conclusion And Result
 The image classification project  demonstrates effective learning and categorization across 151 classes. The model achieve promising accuracy on both training and testing sets, showcasing the potential for various image processing applications. This project will aid others to use this technology to classifiy pokemon images for their purposes.
