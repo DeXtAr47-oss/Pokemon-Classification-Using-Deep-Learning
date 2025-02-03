@@ -31,7 +31,7 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
 3. Matplotlib.
 
 # Visualization
-1. ![Pokemon image before normalization](images/Screenshot from 2025-02-04 03-24-18.png)
+1. ![Pokemon image before normalization](https://github.com/DeXtAr47-oss/Pokemon-Classification-Using-Deep-Learning/blob/49e3d5b0367a7e8554284f3ee8cc4ef07df2270e/images/Screenshot%20from%202025-02-04%2003-24-18.png)
 
 2. ![Pokemon image after normalization](images/Screenshot from 2025-02-04 03-24-53.png)
 
