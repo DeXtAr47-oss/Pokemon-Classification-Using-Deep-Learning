@@ -34,7 +34,7 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
 1.  Pokemon images before normalization. 
    ![](https://github.com/DeXtAr47-oss/Pokemon-Classification-Using-Deep-Learning/blob/49e3d5b0367a7e8554284f3ee8cc4ef07df2270e/images/Screenshot%20from%202025-02-04%2003-24-18.png)
 
-2. Pokemon images aftef normalixation.
+2. Pokemon images after normalization.
    ![](https://github.com/DeXtAr47-oss/Pokemon-Classification-Using-Deep-Learning/blob/d7ba76553d80f56654b7b4670332d11c9960fb2e/images/Screenshot%20from%202025-02-04%2003-24-53.png)
 
 3. Accuracy and loss graph.
@@ -42,8 +42,8 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
  
 # 📈 Model Performance based on Accuracy Scores
 
-    | Model     | Accuracy | Loss   |
-    |-----------|----------|--------|
+    | Model | Accuracy | Loss |
+    |-:|-:|-:|
     | RESNET-18 | 82.62    | 0.7078 |
 
 # 📢 Conclusion And Result
