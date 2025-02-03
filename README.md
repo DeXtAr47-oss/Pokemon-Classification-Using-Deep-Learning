@@ -31,15 +31,12 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
 3. Matplotlib.
 
 # Visualization
-1. Pokemon images before applying normalization.
-    (images/Screenshot from 2025-02-04 03-24-18.png)
+1. ![Pokemon image before normalization](images/Screenshot from 2025-02-04 03-24-18.png)
 
-2. Pokemon images after applying normalization
-    (images/Screenshot from 2025-02-04 03-24-53.png)
+2. ![Pokemon image after normalization](images/Screenshot from 2025-02-04 03-24-53.png)
 
-3. Accuracy and loss graph
-    (images/Screenshot from 2025-02-04 03-25-07.png)
-
+3. ![Accuracy and loss graph](images/Screenshot from 2025-02-04 03-25-07.png)
+ 
 # 📈 Model Performance based on Accuracy Scores
 
     | Model     | Accuracy | Loss   |
