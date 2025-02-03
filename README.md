@@ -32,18 +32,19 @@ To train my deep learing model I have choose a pre-trainned model which is RESNE
 
 # Visualization
 1. Pokemon images before applying normalization.
-    ((../../Pictures/Screenshot from 2025-02-04 03-24-18.png))
+    (images/Screenshot from 2025-02-04 03-24-18.png)
 
 2. Pokemon images after applying normalization
-    ((../../Pictures/Screenshot from 2025-02-04 03-24-53.png))
+    (images/Screenshot from 2025-02-04 03-24-53.png)
 
 3. Accuracy and loss graph
-    ((../../Pictures/Screenshot from 2025-02-04 03-25-07.png))
+    (images/Screenshot from 2025-02-04 03-25-07.png)
 
 # 📈 Model Performance based on Accuracy Scores
-    | Model  | Accuracy | Loss |
-    |--------|-----------|------|
-    | RESNET-18 | 82.62  | 0.7078 |
+
+    | Model     | Accuracy | Loss   |
+    |-----------|----------|--------|
+    | RESNET-18 | 82.62    | 0.7078 |
 
 # 📢 Conclusion And Result
 The image classification project  demonstrates effective learning and categorization across 151 classes. The model achieve promising accuracy on both training and testing sets, showcasing the potential for various image processing applications. This project will aid others to use this technology to classifiy pokemon images for their purposes.
